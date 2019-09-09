@@ -1,0 +1,31 @@
+.back{
+    background-image:url(https://www.sociatex.com/sites/default/files/paragraphes/images/2018-04/groupe-sociatex-fotolia112961880m-cover.jpg);
+
+height: 590px;
+}
+h1{
+    
+   
+    font-size: 3em;
+    color: white;
+    padding-left: 800px;
+    padding-top: 300px;
+    font-style: italic;
+}
+.button{
+    color : white ;
+    font-family: cursive ;
+    font-weight: bold ;
+    font-size: 16px ;
+    margin-top : 10px ;
+    height : 50px ; 
+    width : 175px ;
+    border : none ;
+    background-color:#bfbfbf ;
+    margin-left : auto ;
+    margin-right :  auto ;
+
+}
+.cont{
+    padding-left:950px;
+}
